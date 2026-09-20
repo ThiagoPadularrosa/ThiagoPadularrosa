@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Thiago Padularrosa</h1>
+<h1 align="center">Hi there, I'm Thiago Padularrosa ! </h1>
 
 <div align="center">
   <br>
@@ -11,6 +11,15 @@
 
 ### About me
 - I'm passionate about AI/ML and MLOps, with a strong interest in Cybersecurity.
+<hr></hr>
+
+#### Github Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ThiagoPadularrosa&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="My Github stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ThiagoPadularrosa&layout=donut&langs_count=4&theme=chartreuse-dark" alt="My most used languages"
+</p>
+
 <hr></hr>
 
 ### Technical Toolkit
@@ -46,7 +55,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-#### Additional Expertise
+<hr></hr>
+
+### Additional Expertise
 - <strong>🚧WIP🚧</strong>
 
 <hr></hr>
@@ -68,6 +79,7 @@
   <a href="mailto:padularrosathiago26@gmail.com">
   <img alt="Static Badge" src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
 
 <!--
 **ftisher26/ftisher26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
