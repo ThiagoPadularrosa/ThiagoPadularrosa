@@ -7,16 +7,22 @@
   Pushing my limits building and writing code that is strong and stable for systems with a clear focus on SOLID code.
 </div>
 
+<hr></hr>
 
-
-## About me
+### About me
 - I'm passionate about AI/ML and MLOps, with a strong interest in Cybersecurity.
 -
--
+<hr></hr>
 
-## Technical Toolkit
+### Technical Toolkit
 
-### Cloud and Operations
+#### AI, LLMs
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+</div>
+
+#### Cloud and Operations
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -24,28 +30,31 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
 
-### Frontend Technologies
+#### Full Stack Web Development
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/css3-%23663399?style=for-the-badge&logo=css&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/nodejs-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
-### Networking
+#### Networking
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F03C2E?style=for-the-badge&logo=git&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-### Additional Expertise
+#### Additional Expertise
 - <strong>🚧WIP🚧</strong>
-## Actually Learning
+
+<hr></hr>
+
+### Actually Learning
 - <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
 - <img alt="Static Badge" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-
-
 
 <div align="center">
   <h2>Find me online</h2>
@@ -59,10 +68,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://x.com/ftisher_">
   <img alt="Static Badge" src="https://img.shields.io/badge/x-%23000000?style=for-the-badge&logo=x&logoColor=white"></a>
-
-  
-
-  
 </div>
 
 <!--
