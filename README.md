@@ -4,7 +4,7 @@
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0DFA1D&width=360&height=35&lines=Pushing+Limits+with+LLMS;Computer+Engineer+%40+UNAJ" alt="Typing SVG" /></a><br>
   💻<strong>Computer Engineer @ UNAJ AI/ML, MLOps & Cybersecurity</strong><br>
-  Pushing my limits building writing strong and stable systems with focus on SOLID code
+  Pushing my limits building and writing code that is strong and stable for systems with a clear focus on SOLID code.
 </div>
 
 ## About me
@@ -15,10 +15,13 @@
 ## Technical Toolkit
 
 ## Actually Learning
-- Python
+- <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
+
 
 <div align="center">
   <h2>Find me online</h2>
+  <img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Apadularrosathiago26%40gmail.com">
+
   
 </div>
 
