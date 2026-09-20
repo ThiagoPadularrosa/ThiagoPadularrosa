@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Thiago Padularrosa</h2>
+<h1 align="center">Hi there, I'm Thiago Padularrosa</h1>
 
 <div align="center">
   <br>
@@ -7,6 +7,8 @@
   Pushing my limits building and writing code that is strong and stable for systems with a clear focus on SOLID code.
 </div>
 
+
+
 ## About me
 - I'm passionate about AI/ML and MLOps, with a strong interest in Cybersecurity.
 -
@@ -14,8 +16,11 @@
 
 ## Technical Toolkit
 
+
 ## Actually Learning
 - <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
+- <img alt="Static Badge" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+
 
 
 <div align="center">
