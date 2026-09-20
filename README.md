@@ -64,10 +64,10 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%230a66c2?style=for-the-badge"></a>
   <a href="https://www.instagram.com/thiago.pr10/">
   <img alt="Static Badge" src="https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:padularrosathiago26@gmail.com">
-  <img alt="Static Badge" src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://x.com/ftisher_">
   <img alt="Static Badge" src="https://img.shields.io/badge/x-%23000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="mailto:padularrosathiago26@gmail.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <!--
