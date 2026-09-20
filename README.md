@@ -15,7 +15,25 @@
 -
 
 ## Technical Toolkit
-
+<strong>Web Technologies</strong>
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</div><br>
+<strong>Cloud and Operations</strong>
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/opentelemetry-%23000000?style=for-the-badge&logo=opentelemetry&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white">
+</div><br>
+<strong>Networking</strong>
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F03C2E?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
 ## Actually Learning
 - <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
