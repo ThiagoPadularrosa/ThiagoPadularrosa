@@ -20,12 +20,17 @@
 
 <div align="center">
   <h2>Find me online</h2>
+  <a href="https://github.com/ThiagoPadularrosa">
+  <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/thiago-padularrosa-969a85257/">
   <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%230a66c2?style=for-the-badge"></a>
-  <a href="">
+  <a href="https://www.instagram.com/thiago.pr10/">
   <img alt="Static Badge" src="https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:padularrosathiago26@gmail.com">
   <img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://x.com/ftisher_">
+  <img alt="Static Badge" src="https://img.shields.io/badge/x-%23000000?style=for-the-badge&logo=x&logoColor=white"></a>
+
   
 
   
