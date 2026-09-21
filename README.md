@@ -6,10 +6,8 @@
   💻<strong>Computer Engineer @ UNAJ AI/ML, MLOps & Cybersecurity</strong><br>
   Pushing my limits building and writing code that is strong and stable for systems with a clear focus on <strong>SOLID</strong> code.
 </p>
-<br>
 <p align="center">
-  <!-- <img src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" width="500" alt="Donut video"> -->
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="500" alt="a simple representation of myself in my room"
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="500" alt="a simple representation of myself"
 </p>
 <br>
 <br>
@@ -17,15 +15,7 @@
 
 ### About me
 - I'm passionate about AI/ML and MLOps, with a strong interest in Cybersecurity.
-- 
-<hr></hr>
-
-### Github Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ThiagoPadularrosa&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="My Github stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ThiagoPadularrosa&layout=donut&langs_count=4&theme=chartreuse-dark" alt="My most used languages"
-</p>
+- I'm a bit like a nerd because I love books and I want to recommend you this amazing book about psychology called **Getting Past Your Past by Francine Shapiro**.
 
 <hr></hr>
 
@@ -69,13 +59,22 @@
 <hr></hr>
 
 ### Additional Expertise
-- <strong>🚧WIP🚧</strong>
+- **🚧WIP🚧**
 
 <hr></hr>
 
 ### Actually Learning
 - <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
 - <img alt="Static Badge" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+
+<hr></hr>
+
+### Github Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ThiagoPadularrosa&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="My Github stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ThiagoPadularrosa&layout=donut&langs_count=4&theme=chartreuse-dark" alt="My most used languages"
+</p>
 
 <h2 align="center">Find me online</h2>
 
