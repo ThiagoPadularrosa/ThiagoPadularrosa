@@ -15,7 +15,7 @@
 
 ### About me
 - I'm passionate about AI/ML and MLOps, with a strong interest in Cybersecurity.
-- I'm a bit like a nerd because I love books and I want to recommend you this amazing book about psychology called **Getting Past Your Past by Francine Shapiro**.
+- I'm a bit like a nerd because I love books! And i will take this opportunity to recommend you this amazing book about psychology called **Getting Past Your Past by Francine Shapiro**.
 
 <hr></hr>
 
