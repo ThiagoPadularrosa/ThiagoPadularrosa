@@ -16,6 +16,7 @@
 ### About me
 - I'm passionate about AI/ML and MLOps, with a strong interest in Cybersecurity.
 - I'm a bit like a nerd because I love books! And i will take this opportunity to recommend you this amazing book about psychology called **Getting Past Your Past by Francine Shapiro**.
+- I only like perfection and hard work.
 
 <hr></hr>
 
@@ -72,8 +73,8 @@
 ### Github Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ThiagoPadularrosa&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="My Github stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ThiagoPadularrosa&layout=donut&langs_count=4&theme=chartreuse-dark" alt="My most used languages"
+  <img src="https://github-stats-extended.vercel.app/api?username=ThiagoPadularrosa&show_icons=true&include_all_commits=true&theme=chartreuse-dark&title_color=0DFA1DFF" alt="My Github stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ThiagoPadularrosa&layout=donut&langs_count=4&theme=chartreuse-dark&title_color=0DFA1DFF" alt="My most used languages" />
 </p>
 
 <h2 align="center">Find me online</h2>
