@@ -71,7 +71,7 @@
 
 ### Github Stats
 
-<p>
+<p align="center">
   <img src="./profile/stats.svg" alt="My Github Stats" />
   <img src="./profile/top-langs.svg" alt="My Most used Languages" />
 </p>
