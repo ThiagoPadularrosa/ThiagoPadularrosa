@@ -5,17 +5,19 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4500&pause=1000&color=0DFA1D&width=360&height=35&lines=Pushing+Limits+with+LLMs;Computer+Engineer+%40+UNAJ;Secure+%26+Scalable+Systems" alt="Typing SVG" /></a><br>
   💻<strong>Computer Engineer @ UNAJ AI/ML, MLOps & Cybersecurity</strong><br>
   Pushing my limits building and writing code that is strong and stable for systems with a clear focus on <strong>SOLID</strong> code.
-  <br>
-  
 </p>
+<br>
 <p align="center">
-  <img src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" width="500" alt="App Demo">
+  <!-- <img src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" width="500" alt="Donut video"> -->
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="500" alt="a simple representation of myself in my room"
 </p>
-
+<br>
+<br>
 <hr></hr>
 
 ### About me
 - I'm passionate about AI/ML and MLOps, with a strong interest in Cybersecurity.
+- 
 <hr></hr>
 
 ### Github Stats
