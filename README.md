@@ -68,14 +68,10 @@
 - <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
 - <img alt="Static Badge" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 
-<hr></hr>
-
-### Github Stats
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=ThiagoPadularrosa&show_icons=true&include_all_commits=true&theme=chartreuse-dark&title_color=0DFA1DFF" alt="My Github stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ThiagoPadularrosa&layout=donut&langs_count=4&theme=chartreuse-dark&title_color=0DFA1DFF" alt="My most used languages" />
-</p>
+</p> -->
 
 <h2 align="center">Find me online</h2>
 
