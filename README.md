@@ -71,7 +71,13 @@
 
 ### Github Stats
 
-<a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
+<p styles="display: flex; flex-direction: row;">
+  <img src="./profile/stats.svg" alt="My Github Stats" />
+  <img src="./profile/streak.svg" alt="My Streak Stats" />
+  <!-- <img src="" alt="My Most Used languages" /> -->
+</p>
+
+<!-- <a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
   <picture>
     <source
       srcset="./profile/stats.svg"
@@ -87,7 +93,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=light_github" />
-  </picture>
+  </picture> -->
 
 <!-- <p align="center">
   <img src="./profile/stats.svg" alt="My GitHub Stats" width="390" />
