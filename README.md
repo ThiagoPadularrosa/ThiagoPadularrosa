@@ -7,19 +7,17 @@
   Pushing my limits building and writing code that is strong and stable for systems with a clear focus on <strong>SOLID</strong> code.
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="500" alt="a simple representation of myself" />
-</p>
-
-<img src="" alt="" />
+</div>
 
 <!-- 🚀 About me -->
 <h3 align="center">🚀 About me</h3>
-<div align="center"> 
+<p align="center"> 
   ⚡ I'm passionate about AI/ML and MLOps, with a strong interest in Cybersecurity.<br>
   📚 I'm a bit like a nerd because I spend most of my time reading a lot of books.<br>
   🥇 I only like perfection and hard work.<br>
-</div>
+</p>
 
 <h3 align="center">Give me a follow or a line:</h3>
 <div align="center">
