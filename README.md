@@ -71,11 +71,11 @@
 
 ### Github Stats
 
-<p>
+<!-- <p>
   <img src="./profile/stats.svg" alt="My Github Stats" width="370" /> <img src="./profile/streak.svg" alt="My Streak Stats" />
-</p>
+</p> -->
 
-<!-- <a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
+<a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
   <picture>
     <source
       srcset="./profile/stats.svg"
@@ -91,7 +91,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=light_github" />
-  </picture> -->
+  </picture>
 
 <!-- <p align="center">
   <img src="./profile/stats.svg" alt="My GitHub Stats" width="390" />
