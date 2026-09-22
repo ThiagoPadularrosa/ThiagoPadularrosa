@@ -73,6 +73,7 @@
 
 <p align="center">
   <img src="./profile/stats.svg" alt="My Github Stats" />
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
   <img src="./profile/top-langs.svg" alt="My Most used Languages" />
 </p>
 
