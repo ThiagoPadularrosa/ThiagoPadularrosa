@@ -86,7 +86,7 @@
       srcset="./profile/streak.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200" width="440" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=light_github" />
+    <img height="200" width="390" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=light_github" />
   </picture>
 <!-- </a>
 <p align="center">
