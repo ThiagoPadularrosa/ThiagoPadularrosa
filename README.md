@@ -74,10 +74,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="./profile/stats.svg" alt="My GitHub Stats" width="full" height="200" />
+      <img src="./profile/stats.svg" alt="My GitHub Stats" height="200" />
     </td>
     <td>
-      <img src="./profile/streak.svg" alt="GitHub Streak" width="full" height="200" />
+      <img src="./profile/streak.svg" alt="GitHub Streak" height="200" />
     </td>
   </tr>
   <tr>
