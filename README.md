@@ -71,6 +71,25 @@
 
 ### Github Stats
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="./profile/stats.svg" alt="My GitHub Stats" width="430" />
+    </td>
+    <td>
+      <img src="./profile/streak.svg" alt="GitHub Streak" width="430" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="./profile/top-langs.svg"
+        alt="My Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
+
 <!-- <table align="center">
   <tr>
     <td>
@@ -90,17 +109,7 @@
   </tr>
 </table> -->
 
-<p align="center">
-  <img src="./profile/stats.svg" alt="My GitHub Stats" width="400"/><img src="./profile/streak.svg" alt="GitHub Streak" />
-  <br>
-  <img src="./profile/top-langs.svg" alt="My Most Used Languages"/>
-</p>
 
-
-<!-- <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ThiagoPadularrosa&show_icons=true&include_all_commits=true&theme=chartreuse-dark&title_color=0DFA1DFF" alt="My Github stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ThiagoPadularrosa&layout=donut&langs_count=4&theme=chartreuse-dark&title_color=0DFA1DFF" alt="My most used languages" />
-</p> -->
 
 <h2 align="center">Find me online</h2>
 
