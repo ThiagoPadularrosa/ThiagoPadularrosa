@@ -75,7 +75,7 @@
 
 <div align="center">
    <img width="398" src="./profile/stats.svg" /> 
-<img width="398" src="./profile/streak.svg" />
+<img width="450" src="./profile/streak.svg" />
   <img src="./profile/top-langs.svg" alt="." />
 </div>
 
