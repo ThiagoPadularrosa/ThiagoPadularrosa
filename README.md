@@ -20,7 +20,7 @@
 
 <hr></hr>
 
-### Technical Toolkit
+<h3>Technical Toolkit</h3>
 
 **AI, LLMs**
 
@@ -59,20 +59,33 @@
 
 <hr></hr>
 
-### Additional Expertise
+<h3>Additional Expertise</h3>
 - **🚧WIP🚧**
 
 <hr></hr>
 
-### Actually Learning
+<h3>Actually Learning</h3>
+
 - <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
 - <img alt="Static Badge" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 
 <hr></hr>
 
-### Github Stats
+<h3>Github Stats</h3>
 
-<table align="center">
+<div align="center">
+   <img width="398" src="./profile/stats.svg" /> 
+<img src="./profile/top-langs.svg" />
+  <img src="./profile/streak.svg" alt="." />
+</div>
+
+<!-- <div align="center">
+   <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" /> 
+<img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="." />
+</div> -->
+
+<!-- <table align="center">
   <tr>
     <td>
       <img src="./profile/stats.svg" alt="My GitHub Stats" height="200" />
@@ -89,7 +102,7 @@
       />
     </td>
   </tr>
-</table>
+</table> -->
 
 <h2 align="center">Find me online</h2>
 
