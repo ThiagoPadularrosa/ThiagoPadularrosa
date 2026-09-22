@@ -76,8 +76,8 @@
 </p> -->
 
 <p align="center" >
-  <img src="./profile/stats.svg" alt="My GitHub Stats" width="430" height="200" />
-  <img src="./profile/streak.svg" alt="GitHub Streak" width="430" height="200" />
+  <img src="./profile/stats.svg" alt="My GitHub Stats" width="390" height="200" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="390" height="200" />
 </p>
 
 <p align="center">
