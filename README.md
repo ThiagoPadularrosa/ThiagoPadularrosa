@@ -6,10 +6,11 @@
   💻<strong>Computer Engineer @ UNAJ AI/ML, MLOps & Cybersecurity</strong><br/>
   Pushing my limits building and writing code that is strong and stable for systems with a clear focus on <strong>SOLID</strong> code.
 </p>
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="500" alt="a simple representation of myself" />
 </p>
-<br/>
+
 <hr></hr>
 
 ### About me
@@ -90,27 +91,6 @@
   </tr>
 </table>
 
-<!-- <table align="center">
-  <tr>
-    <td>
-      <img src="./profile/stats.svg" alt="My GitHub Stats" />
-    </td>
-    <td>
-      <img src="./profile/streak.svg" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="./profile/top-langs.svg"
-        alt="My Most Used Languages"
-      />
-    </td>
-  </tr>
-</table> -->
-
-
-
 <h2 align="center">Find me online</h2>
 
 <p align="center">
@@ -125,18 +105,3 @@
   <a href="mailto:padularrosathiago26@gmail.com">
   <img alt="Static Badge" src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<!--
-**ftisher26/ftisher26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
