@@ -11,36 +11,42 @@
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="500" alt="a simple representation of myself" />
 </p>
 
-<hr></hr>
-
-### About me
-- I'm passionate about AI/ML and MLOps, with a strong interest in Cybersecurity.
-- I'm a bit like a nerd because I love books! And i will take this opportunity to recommend you this amazing book about psychology called **Getting Past Your Past by Francine Shapiro**.
-- I only like perfection and hard work.
-
-<hr></hr>
-
-<h3>Technical Toolkit</h3>
-
-**AI, LLMs**
-
-<p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/ThiagoPadularrosa">
+  <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thiago-padularrosa-969a85257/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%230a66c2?style=for-the-badge" /></a>
+  <a href="mailto:padularrosathiago26@gmail.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/thiago.pr10/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/ftisher_">
+  <img alt="Static Badge" src="https://img.shields.io/badge/x-%23000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
-**Cloud and Operations**
+<img align="left" src="" alt="" width="400" />
 
+<!-- 🚀 About me -->
+<h3 align="left">About me</h3>
 <p>
+  I'm passionate about AI/ML and MLOps, with a strong interest in Cybersecurity.<br>
+  
+  I'm a bit like a nerd because I love books! And i will take this opportunity to recommend you this amazing book about psychology called **Getting Past Your Past by Francine Shapiro**.<br>
+  
+  I only like perfection and hard work.<br>
+</p>
+
+<hr></hr>
+<!-- 🛠️ Tech Stack -->
+<h3 align="center">Technical Toolkit</h3>
+
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/opentelemetry-%23000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-**Full Stack Web Development**
-
-<p>
   <img alt="Static Badge" src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/css3-%23663399?style=for-the-badge&logo=css&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -48,44 +54,30 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/nodejs-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-**Networking**
-
-<p>
   <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F03C2E?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<hr></hr>
-
-<h3>Additional Expertise</h3>
-- **🚧WIP🚧**
-
-<hr></hr>
-
-<h3>Actually Learning</h3>
-
-- <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
-- <img alt="Static Badge" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-
-<hr></hr>
-
-<h3>Github Stats</h3>
-
-<div align="center">
-   <img width="398" src="./profile/stats.svg" />
-<img src="./profile/top-langs.svg" alt="." />
-  <img width="398" src="./profile/streak.svg" />
 </div>
 
-<!-- <div align="center">
-   <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" /> 
-<img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="." />
+<hr></hr>
+
+<!-- <h3 align="center">Additional Expertise</h3>
+
+<div align="center">
+  <strong>🚧WIP🚧</strong>
 </div> -->
 
-<!-- <table align="center">
+<h3 align="center">Currently Learning</h3>
+
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</div>
+
+<hr></hr>
+<!-- 📊 Github Stats -->
+<h3 align="center">Github Stats</h3>
+
+<table align="center">
   <tr>
     <td>
       <img src="./profile/stats.svg" alt="My GitHub Stats" height="200" />
@@ -102,19 +94,7 @@
       />
     </td>
   </tr>
-</table> -->
+</table>
 
-<h2 align="center">Find me online</h2>
+<!-- Ending -->
 
-<p align="center">
-  <a href="https://github.com/ThiagoPadularrosa">
-  <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/thiago-padularrosa-969a85257/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%230a66c2?style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/thiago.pr10/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/ftisher_">
-  <img alt="Static Badge" src="https://img.shields.io/badge/x-%23000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:padularrosathiago26@gmail.com">
-  <img alt="Static Badge" src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
