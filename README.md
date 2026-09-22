@@ -71,14 +71,6 @@
 
 ### Github Stats
 
-<!-- <p>
-  <img src="./profile/stats.svg" alt="My Github Stats" width="370" /> <img src="./profile/streak.svg" alt="My Streak Stats" />
-</p> -->
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="My GitHub Stats" /> <img src="./profile/streak.svg" alt="GitHub Streak" />
-</p>
-
 <!-- <table align="center">
   <tr>
     <td>
@@ -97,10 +89,11 @@
     </td>
   </tr>
 </table> -->
-<!-- <img src="./profile/stats.svg" alt="My Github Stats" />  <img src="./profile/streak.svg" alt="GitHub Streak"  />
+
+<img src="./profile/stats.svg" alt="My Github Stats" />  <img src="./profile/streak.svg" alt="GitHub Streak"  />
 <p align="center">
   <img src="./profile/top-langs.svg" alt="My Most used Languages" />
-</p> -->
+</p> 
 
 
 <!-- <p align="center">
