@@ -90,10 +90,11 @@
   </tr>
 </table> -->
 
-<img src="./profile/stats.svg" alt="My Github Stats" />  <img src="./profile/streak.svg" alt="GitHub Streak"  />
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="My Most used Languages" />
-</p> 
+  <img src="./profile/stats.svg" alt="My GitHub Stats" width="400"><img src="./profile/streak.svg" alt="GitHub Streak" width="400">
+  <br>
+  <img src="./profile/top-langs.svg" alt="My Most Used Languages" width="370">
+</p>
 
 
 <!-- <p align="center">
