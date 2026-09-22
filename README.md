@@ -77,7 +77,7 @@
       srcset="./profile/stats.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200" width="450" align="center" src="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=light_github" />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=light_github" />
   </picture>
 </a>
 <a href="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320">
@@ -86,17 +86,17 @@
       srcset="./profile/streak.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200" width="390" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=light_github" />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=light_github" />
   </picture>
-<!-- </a>
-<p align="center">
+
+<!-- <p align="center">
   <img src="./profile/stats.svg" alt="My GitHub Stats" width="390" />
   <img src="./profile/streak.svg" alt="GitHub Streak" width="390" />
 </p>
 
 <p align="center">
   <img src="./profile/top-langs.svg" alt="My Most Used Languages" width="360" />
-</p> -->
+</p>  -->
 
 <!-- <table align="center">
   <tr>
