@@ -72,7 +72,7 @@
 ### Github Stats
 
 <p>
-  <img src="./profile/stats.svg" alt="My Github Stats" /> <img src="./profile/streak.svg" alt="My Streak Stats" />
+  <img src="./profile/stats.svg" alt="My Github Stats" width="370" /> <img src="./profile/streak.svg" alt="My Streak Stats" />
 </p>
 
 <!-- <a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
