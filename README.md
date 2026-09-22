@@ -71,11 +71,14 @@
 
 ### Github Stats
 
-<p align="center">
+<p display="grid" grid-template-columns="1fr 1fr">
   <img src="./profile/stats.svg" alt="My Github Stats" />
-  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
-  <img src="./profile/top-langs.svg" alt="My Most used Languages" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <p align="center">
+    <img src="./profile/top-langs.svg" alt="My Most used Languages" />
+  </p>  
 </p>
+
 
 <!-- <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=ThiagoPadularrosa&show_icons=true&include_all_commits=true&theme=chartreuse-dark&title_color=0DFA1DFF" alt="My Github stats" />
