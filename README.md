@@ -71,7 +71,7 @@
 
 ### Github Stats
 
-<p styles="display: flex; flex-direction: row;">
+<p display="flex" flex-direction="row">
   <img src="./profile/stats.svg" alt="My Github Stats" />
   <img src="./profile/streak.svg" alt="My Streak Stats" />
   <!-- <img src="" alt="My Most Used languages" /> -->
