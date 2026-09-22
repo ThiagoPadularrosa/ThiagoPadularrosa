@@ -71,13 +71,55 @@
 
 ### Github Stats
 
-<p display="grid" grid-template-columns="1fr 1fr">
-  <img src="./profile/stats.svg" alt="My Github Stats" />
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
-  <p align="center">
-    <img src="./profile/top-langs.svg" alt="My Most used Languages" />
-  </p>  
+<a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
+  <picture>
+    <source
+      srcset="./profile/stats.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=light_github" />
+  </picture>
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320">
+  <picture>
+    <source
+      srcset="./profile/streak.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=light_github" />
+  </picture>
+<!-- </a>
+<p align="center">
+  <img src="./profile/stats.svg" alt="My GitHub Stats" width="390" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="390" />
 </p>
+
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="My Most Used Languages" width="360" />
+</p> -->
+
+<!-- <table align="center">
+  <tr>
+    <td>
+      <img src="./profile/stats.svg" alt="My GitHub Stats" />
+    </td>
+    <td>
+      <img src="./profile/streak.svg" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="./profile/top-langs.svg"
+        alt="My Most Used Languages"
+      />
+    </td>
+  </tr>
+</table> -->
+<!-- <img src="./profile/stats.svg" alt="My Github Stats" />  <img src="./profile/streak.svg" alt="GitHub Streak"  />
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="My Most used Languages" />
+</p> -->
 
 
 <!-- <p align="center">
