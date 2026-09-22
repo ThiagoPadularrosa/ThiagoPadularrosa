@@ -91,9 +91,9 @@
 </table> -->
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="My GitHub Stats" width="400"><img src="./profile/streak.svg" alt="GitHub Streak" width="400">
+  <img src="./profile/stats.svg" alt="My GitHub Stats" width="400"/><img src="./profile/streak.svg" alt="GitHub Streak" />
   <br>
-  <img src="./profile/top-langs.svg" alt="My Most Used Languages" width="370">
+  <img src="./profile/top-langs.svg" alt="My Most Used Languages"/>
 </p>
 
 
