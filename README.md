@@ -37,6 +37,8 @@
   
 <br>
 
+<hr></hr>
+
 <h3 align="center">📔 Tools I've Had My Hands On</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,react,tailwind,notion,nginx" /><br>
@@ -44,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=postman,py,vercel,vscode,express,githubactions,grafana" /><br>
 </div>
 
-<br>
+<hr></hr>
 
 <!-- 🛠️ Tech Stack -->
 <div align="center">
@@ -71,8 +73,7 @@
 <div align="center">
   <strong>🚧WIP🚧</strong>
 </div> -->
-
-<br>
+<hr></hr>
 
 <h3 align="center">🌱 Currently Learning</h3>
 
@@ -81,7 +82,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </div>
 
-<br>
+<hr></hr>
 
 <!-- 📊 Github Stats -->
 <h3 align="center">📊 Github Stats</h3>
