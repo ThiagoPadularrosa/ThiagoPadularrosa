@@ -74,9 +74,9 @@
 <h3>Github Stats</h3>
 
 <div align="center">
-   <img width="398" src="./profile/stats.svg" /> 
-<img width="398" src="./profile/streak.svg" />
-  <img src="./profile/top-langs.svg" alt="." />
+   <img width="398" src="./profile/stats.svg" />
+<img src="./profile/top-langs.svg" alt="." />
+  <img width="398" src="./profile/streak.svg" />
 </div>
 
 <!-- <div align="center">
