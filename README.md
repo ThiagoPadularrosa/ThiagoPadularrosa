@@ -24,22 +24,21 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/x-%23000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
-<img align="left" src="" alt="" width="400" />
-
 <!-- 🚀 About me -->
-<h3 align="left">About me</h3>
-<p>
-  I'm passionate about AI/ML and MLOps, with a strong interest in Cybersecurity.<br>
-  
-  I'm a bit like a nerd because I love books! And i will take this opportunity to recommend you this amazing book about psychology called **Getting Past Your Past by Francine Shapiro**.<br>
-  
-  I only like perfection and hard work.<br>
-</p>
+<h3 align="center">🚀 About me</h3>
+<div align="center"> 
+  ⚡ I'm passionate about AI/ML and MLOps, with a strong interest in Cybersecurity.<br>
+  📚 I'm a bit like a nerd because I spend most of my time reading a lot of books.<br>
+  🥇 I only like perfection and hard work.<br>
+</div>
+
+<br>
+<br>
 
 <hr></hr>
-<!-- 🛠️ Tech Stack -->
-<h3 align="center">Technical Toolkit</h3>
 
+<!-- 🛠️ Tech Stack -->
+<h3 align="center">💻 Technical Toolkit</h3>
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
@@ -66,7 +65,7 @@
   <strong>🚧WIP🚧</strong>
 </div> -->
 
-<h3 align="center">Currently Learning</h3>
+<h3 align="center">🌱 Currently Learning</h3>
 
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -75,7 +74,7 @@
 
 <hr></hr>
 <!-- 📊 Github Stats -->
-<h3 align="center">Github Stats</h3>
+<h3 align="center">📊 Github Stats</h3>
 
 <table align="center">
   <tr>
