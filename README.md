@@ -76,12 +76,12 @@
 </p> -->
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="My GitHub Stats" width="390" />
-  <img src="./profile/streak.svg" alt="GitHub Streak" width="390" />
+  <img src="./profile/stats.svg" alt="My GitHub Stats" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="My Most Used Languages" width="360" />
+  <img src="./profile/top-langs.svg" alt="My Most Used Languages" />
 </p> 
 
 <!-- <table align="center">
