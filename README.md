@@ -100,6 +100,7 @@
       <img
         src="./profile/top-langs.svg"
         alt="My Most Used Languages"
+        width="280"
       />
     </td>
   </tr>
