@@ -19,7 +19,7 @@
   🥇 I only like perfection and hard work.<br>
 </p>
 
-<h3 align="center">Give me a follow or a line:</h3>
+<h3 align="center">Give me a follow or drop me a line:</h3>
 <div align="center">
   <a href="https://github.com/ThiagoPadularrosa">
   <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
