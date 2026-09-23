@@ -107,9 +107,9 @@
 
 <!-- Ending -->
 <div align="center">
-  <img src="Gifs/snowytrain.gif" alt"lol"/>
+  <img src="Gifs/excelent.gif" width="auto" height="auto" />
 </div>
 
 <hr></hr>
 
-<p align="center">Buenos Aires, Argentina  UTC-3</p>
+<p align="center">Buenos Aires, Argentina · UTC-3</p>
