@@ -35,8 +35,6 @@
   
 <br>
 
-<hr></hr>
-
 <!-- ⭐ Tools i already touch -->
 <h3 align="center">📔 Tools I've Had My Hands On</h3>
 <div align="center">
@@ -44,8 +42,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,git,github,docker,nodejs,npm" /><br>
   <img src="https://skillicons.dev/icons?i=postman,py,vercel,vscode,express,githubactions,grafana" /><br>
 </div>
-
-<hr></hr>
 
 <!-- 🛠️ Tech Stack -->
 <div align="center">
@@ -72,7 +68,6 @@
 <div align="center">
   <strong>🚧WIP🚧</strong>
 </div> -->
-<hr></hr>
 
 <!-- 👨‍🎓 Currently Learning things -->
 <h3 align="center">🌱 Currently Learning</h3>
@@ -80,8 +75,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </div>
-
-<hr></hr>
 
 <!-- 📊 Github Stats -->
 <h3 align="center">📊 Github Stats</h3>
