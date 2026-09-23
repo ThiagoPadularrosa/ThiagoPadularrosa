@@ -37,6 +37,7 @@
 
 <hr></hr>
 
+<!-- ⭐ Tools i already touch -->
 <h3 align="center">📔 Tools I've Had My Hands On</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,react,tailwind,notion,nginx" /><br>
@@ -73,8 +74,8 @@
 </div> -->
 <hr></hr>
 
+<!-- 👨‍🎓 Currently Learning things -->
 <h3 align="center">🌱 Currently Learning</h3>
-
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
@@ -105,4 +106,10 @@
 </table>
 
 <!-- Ending -->
+<div align="center">
+  <img src="Gifs/snowytrain.gif" alt"lol"/>
+</div>
 
+<hr></hr>
+
+<p align="center">Buenos Aires, Argentina  UTC-3</p>
