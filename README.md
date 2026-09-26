@@ -13,7 +13,7 @@
 
 <!-- 🚀 About me -->
 <h3 align="center">🚀 About me</h3>
-<p align="center"> 
+<p align="center">
   ⚡ I'm passionate about AI/ML and MLOps, with a strong interest in Cybersecurity.<br>
   📚 I'm a bit like a nerd because I spend most of my time reading a lot of books.<br>
   🥇 I only like perfection and hard work.<br>
@@ -32,7 +32,7 @@
   <a href="https://x.com/ftisher_">
   <img alt="Static Badge" src="https://img.shields.io/badge/x-%23000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </div>
-  
+
 <br>
 
 <!-- ⭐ Tools i already touch -->
