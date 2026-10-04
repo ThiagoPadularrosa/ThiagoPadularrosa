@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=0DFA1D&width=375&height=45&lines=Computer+Science+%40+UNQ;Secure+%26+Scalable+Systems;Pushing+Limits+with+LLMs" alt="Typing SVG" /></a><br/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=0DFA1D&width=375&height=41&lines=Computer+Science+%40+UNQ;Secure+%26+Scalable+Systems;Pushing+Limits+with+LLMs" alt="Typing SVG" /></a><br/>
   💻<strong>Aspiring Software Engineer | CS Student @ UNQ AI/ML, MLOps & Cybersecurity</strong><br/>
   Pushing my limits building and writing code that is strong and stable for systems with a clear focus on <strong>SOLID</strong> code.
 </p>
