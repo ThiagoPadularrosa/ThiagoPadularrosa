@@ -3,7 +3,7 @@
 <p align="center">
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=0DFA1D&width=360&height=40&lines=Computer+Science+%40+UNQ;Pushing+Limits+with+LLMs;Secure+%26+Stable+Systems" alt="Typing SVG" /></a><br/>
-  💻<strong>Aspiring AI Security Engineer | CS Student @ UNQ | AI/ML, MLOps & Cybersecurity</strong><br/>
+  💻<strong>AI Engineer & Cybersecurity | CS Student @ UNQ</strong><br/>
   Pushing my limits building and writing code that is strong and stable for systems with a clear focus on <strong>security</strong>.
 </p>
 
@@ -14,9 +14,10 @@
 <!-- 🚀 About me -->
 <h3 align="center">🚀 About me</h3>
 <p align="center">
-  ⚡ I'm passionate about AI/ML and MLOps, with a strong interest in Cybersecurity.<br>
-  📚 I'm a bit like a nerd because I spend most of my time reading a lot of books.<br>
-  🥇 I only like perfection and hard work.<br>
+  ⚡ I'm deeply passionate about AI/ML and building systems with LLMs, RAG, and Autonomous Agents<br>
+  🛡️ I combine this with Cybersecurity to ensure these applications are resilient against modern threats.<br>
+  📚 I'm a bit like a nerd because I spend most of my time reading a lot of books about different topics.<br>
+  🥇 I only like perfection and hard work, focusing on writing CLEAN, SOLID, and bulletproof code.<br>
 </p>
 
 <h3 align="center">Give me a follow or drop me a line:</h3>
