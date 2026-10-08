@@ -14,7 +14,7 @@
 <!-- 🚀 About me -->
 <h3 align="center">🚀 About me</h3>
 <p align="center">
-  ⚡ I'm deeply passionate about AI/ML and building systems with LLMs, RAG, and Autonomous Agents<br>
+  ⚡ I'm deeply interested about AI/ML and building systems with LLMs, RAG, and Autonomous Agents<br>
   🛡️ I combine this with Cybersecurity to ensure these applications are resilient against modern threats.<br>
   📚 I'm a bit like a nerd because I spend most of my time reading a lot of books about different topics.<br>
   🥇 I only like perfection and hard work, focusing on writing CLEAN, SOLID, and secure code.<br>
