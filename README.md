@@ -3,7 +3,7 @@
 <p align="center">
   <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=0DFA1D&center=true&vCenter=true&height=35&lines=Computer+Science+%40+UNQ;Pushing+Limits+with+LLMs;Secure+%26+Stable+Sytems" alt="Typing SVG" /></a><br/>
-  💻<strong>AI Engineer & Cybersecurity | Python • AI | CS Student @ UNQ</strong><br/>
+  💻<strong>AI Engineer & Cybersecurity | AI • Security • Python | CS Student @ UNQ</strong><br/>
   Pushing my limits building and writing code that is strong and stable for systems with a clear focus on <strong>security</strong>.
 </p>
 
