@@ -6,19 +6,19 @@
 <p align="center">
   <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=0DFA1D&center=true&vCenter=true&width=420&height=35&lines=Computer+Science+%40+UNQ;Pushing+Limits+with+Security;Stable+%26+Secure+Sytems" alt="Typing SVG" /></a><br/>
-  💻<strong>Cybersecurity & Backend En | Security • Python | CS Student @ UNQ</strong><br/>
-  Pushing my limits building and writing code that is strong, stable and resilient for AI systems with a clear focus on <strong>security</strong>.
+  💻<strong>Cybersecurity & Backend Engineer | Security • Python | CS Student @ UNQ</strong><br/>
+  Pushing my limits by building and writing code that is strong, stable and resilient for AI systems with a clear focus on <strong>security</strong>.
 </p>
 
 <!-- 🚀 About me -->
 <p>
   I consider myself a problem-solver. I'm passionate about self-learning complex and new subjects related to programming and cybersecurity. I am based in Berazategui, Argentina.
 
-  I'm deeply interested about AI/ML, Cybersecurity and building systems that works as they should. I combine this with Cybersecurity to ensure these applications are resilient against modern threat.
+  I'm deeply interested in Cybersecurity, AI/ML and building systems that work as they should. I combine this with Cybersecurity to ensure these applications are resilient against modern threats.
   
-  Also I'm a bit of a perfectionist and I embrace hard work always pays off if we focused on writing CLEAN, SOLID and secure code.<br>
+  Also I'm a bit of a perfectionist and I believe hard work always pays off, especially when we focus on writing clean, solid and secure code.<br>
 
-  Another thing about me is that I'm a bit like a nerd, because I spend most of my time reading books about topics that i find interesting —like pyschology, physical training, programming— and, especially things that can give me some sort of progress.
+  Another thing about me is that I'm a bit of a nerd, because I spend most of my time reading books about topics that I find interesting —like psychology, physical training, programming— and, especially things that have a contribution to my personal growth.
 </p>
 
 ## Projects
