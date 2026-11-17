@@ -7,7 +7,7 @@
   <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=0DFA1D&center=true&vCenter=true&width=420&height=35&lines=Computer+Science+%40+UNQ;Pushing+Limits+with+Security;Stable+%26+Secure+Sytems" alt="Typing SVG" /></a><br/>
   💻<strong>Cybersecurity & Backend Engineer | Security • Python | CS Student @ UNQ</strong><br/>
-  Pushing my limits by building and writing code focused on security, stability, and maintainable.
+  Pushing my limits by building and writing code focused on security, stability, and maintainability.
 </p>
 
 <!-- 🚀 About me -->
