@@ -14,11 +14,17 @@
 <p>
   I consider myself a problem-solver. I'm passionate about self-learning complex and new subjects related to programming and cybersecurity. I am based in Berazategui, Argentina.
 
-  ⚡ I'm deeply interested about AI/ML, Cybersecurity and building systems that works as they should.<br>
-  🛡️ I combine this with Cybersecurity to ensure these applications are resilient against modern threats.<br>
-  📚 I'm a bit like a nerd because I spend most of my time reading books about different topics.<br>
-  🥇 I only like perfection and hard work, focused on writing CLEAN, SOLID and secure code.<br>
+  I'm deeply interested about AI/ML, Cybersecurity and building systems that works as they should. I combine this with Cybersecurity to ensure these applications are resilient against modern threat.
+  
+  Also I'm a bit of a perfectionist and I embrace hard work always pays off if we focused on writing CLEAN, SOLID and secure code.<br>
+
+  Another thing about me is that I'm a bit like a nerd, because I spend most of my time reading books about topics that i find interesting —like pyschology, physical training, programming— and, especially things that can give me some sort of progress.
 </p>
+
+## Projects
+
+- **[Personal Portfolio](https://github.com/ThiagoPadularrosa/Personal-Portfolio)** - A simple personal portfolio focused on **learning** how to make a full stack web and how it works, meaning that it's not the one that I use to show my portfolio. It's already deployed and working.
+- **[To Do List](https://github.com/ThiagoPadularrosa/TO-DO-list)** - A CLI To do list program that saves each task the user have into a MySQL database with CRUD options implemented as well.
 
 <!-- 🛠️ Tech Stack -->
 
@@ -61,11 +67,6 @@ Technologies and tools I use across systems engineering, software development, b
   <img alt="Github" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
-
-## Projects
-
-- **[Personal Portfolio](https://github.com/ThiagoPadularrosa/Personal-Portfolio)** - A simple personal portfolio focused on **learning** how to make a full stack web and how it works, meaning that it's not the one that I use to show my portfolio. It's already deployed and working.
-- **[To Do List](https://github.com/ThiagoPadularrosa/TO-DO-list)** - A CLI To do list program that saves each task the user have into a MySQL database with CRUD options implemented as well.
 
 <!-- 📊 Github Stats -->
 ## 📊 Github Stats
