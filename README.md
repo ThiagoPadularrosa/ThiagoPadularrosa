@@ -1,86 +1,74 @@
-<h1 align="center">Hi there, I'm Thiago Padularrosa ! </h1>
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD045 -->
+<!-- markdownlint-disable MD036-->
+<h1 align="center">Hi there, I'm Thiago Padularrosa !</h1>
 
 <p align="center">
   <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=0DFA1D&center=true&vCenter=true&height=35&lines=Computer+Science+%40+UNQ;Pushing+Limits+with+LLMs;Secure+%26+Stable+Sytems" alt="Typing SVG" /></a><br/>
-  💻<strong>Cybersecurity & Backend Engineer | Security • Python | CS Student @ UNQ</strong><br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=0DFA1D&center=true&vCenter=true&width=420&height=35&lines=Computer+Science+%40+UNQ;Pushing+Limits+with+Security;Stable+%26+Secure+Sytems" alt="Typing SVG" /></a><br/>
+  💻<strong>Cybersecurity & Backend En | Security • Python | CS Student @ UNQ</strong><br/>
   Pushing my limits building and writing code that is strong, stable and resilient for AI systems with a clear focus on <strong>security</strong>.
 </p>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="500" alt="a simple representation of myself" />
-</div>
-
 <!-- 🚀 About me -->
-<h3 align="center">🚀 About me</h3>
-<p align="center">
-  ⚡ I'm deeply interested about AI/ML and building systems with LLMs, RAG, and Autonomous Agents<br>
+<p>
+  I consider myself a problem-solver. I'm passionate about self-learning complex and new subjects related to programming and cybersecurity. I am based in Berazategui, Argentina.
+
+  ⚡ I'm deeply interested about AI/ML, Cybersecurity and building systems that works as they should.<br>
   🛡️ I combine this with Cybersecurity to ensure these applications are resilient against modern threats.<br>
-  📚 I'm a bit like a nerd because I spend most of my time reading a lot of books about different topics.<br>
-  🥇 I only like perfection and hard work, focusing on writing CLEAN, SOLID and secure code.<br>
+  📚 I'm a bit like a nerd because I spend most of my time reading books about different topics.<br>
+  🥇 I only like perfection and hard work, focused on writing CLEAN, SOLID and secure code.<br>
 </p>
 
-<h3 align="center">Give me a follow or drop me a line:</h3>
-<div align="center">
-  <a href="https://github.com/ThiagoPadularrosa">
-  <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/thiago-padularrosa-969a85257/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%230a66c2?style=for-the-badge" /></a>
-  <a href="mailto:padularrosathiago26@gmail.com">
-  <img alt="Static Badge" src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/thiago.pr10/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/ftisher_">
-  <img alt="Static Badge" src="https://img.shields.io/badge/x-%23000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</div>
-
-<br>
-
-<!-- ⭐ Tools i already touch -->
-<h3 align="center">📔 Tools I've Had My Hands On</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,react,tailwind,notion,nginx" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,docker,nodejs,npm" /><br>
-  <img src="https://skillicons.dev/icons?i=postman,py,vercel,vscode,express,githubactions,grafana" /><br>
-</div>
-
 <!-- 🛠️ Tech Stack -->
-<div align="center">
-  <h3 align="center">💻 Technical Toolkit</h3>
-    <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/opentelemetry-%23000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/css3-%23663399?style=for-the-badge&logo=css&logoColor=white" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/nodejs-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F03C2E?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white" />
-</div>
 
-<!-- <h3 align="center">Additional Expertise</h3>
+## Technical Toolkit
 
-<div align="center">
-  <strong>🚧WIP🚧</strong>
-</div> -->
+Technologies and tools I use across systems engineering, software development, backend systems and observability.
 
-<!-- 👨‍🎓 Currently Learning things -->
-<h3 align="center">🌱 Currently Learning</h3>
-<div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=black">
-</div>
+**Backend and Data**
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Rest apis" src="https://img.shields.io/badge/REST%20APIs-%2302569b?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img alt="Nodejs" src="https://img.shields.io/badge/nodejs-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+**Web Technologies**
+
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%23663399?style=for-the-badge&logo=css&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+**DevOps & Observability**
+
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Opentelemetry" src="https://img.shields.io/badge/opentelemetry-%23000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+**Version Control & Deployment**
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F03C2E?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+## Projects
+
+- **[Personal Portfolio](https://github.com/ThiagoPadularrosa/Personal-Portfolio)** - A simple personal portfolio focused on **learning** how to make a full stack web and how it works, meaning that it's not the one that I use to show my portfolio. It's already deployed and working.
+- **[To Do List](https://github.com/ThiagoPadularrosa/TO-DO-list)** - A CLI To do list program that saves each task the user have into a MySQL database with CRUD options implemented as well.
 
 <!-- 📊 Github Stats -->
-<h3 align="center">📊 Github Stats</h3>
+## 📊 Github Stats
 
 <table align="center">
   <tr>
@@ -107,6 +95,17 @@
   <img src="Gifs/excelent.gif" width="auto" height="auto" />
 </div>
 
-<hr></hr>
+<h2 align="center">Give me a follow or drop me a line:</h2>
 
-<p align="center">Buenos Aires, Argentina · UTC-3</p>
+<p align="center">
+  <a href="https://github.com/ThiagoPadularrosa"><img alt="Github" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thiago-padularrosa-969a85257/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230a66c2?style=for-the-badge" /></a>
+  <a href="mailto:padularrosathiago26@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/thiago.pr10/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.threads.com/@thiago.pr10"><img alt="Threads" src="https://img.shields.io/badge/THREADS-%23000000?style=for-the-badge&logo=threads&logoColor=white"></a>
+  <a href="https://x.com/TatoCSV"><img alt="Twitter" src="https://img.shields.io/badge/x-%23000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  Buenos Aires, Argentina · UTC-3
+</p>
