@@ -16,7 +16,7 @@
 
   I'm deeply interested in Cybersecurity, AI/ML and building systems that work as they should. I combine this with Cybersecurity to ensure these applications are resilient against modern threats.
   
-  Also I'm a bit of a perfectionist and I believe hard work always pays off, especially when we focus on writing clean, solid and secure code.<br>
+  Also, I'm a bit of a perfectionist and I believe hard work always pays off, especially when we focus on writing clean, solid and secure code.<br>
 
   Another thing about me is that I'm a bit of a nerd, because I spend most of my time reading books about topics that I find interesting —like psychology, physical training, programming— and, especially things that have a contribution to my personal growth.
 </p>
